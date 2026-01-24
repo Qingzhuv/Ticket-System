@@ -70,16 +70,15 @@
     <footer>
         <footer style="text-align: center; padding: 30px 0; background: #ffffff; border-top: 1px solid #eee; line-height: 1.8;">
             <p style="margin: 0; font-size: 15px; color: #333;">
-                本系统由 
+                ©2025-现在
                 <a href="https://www.westcran.tech" target="_blank" style="text-decoration: none; font-style: italic; font-weight: bold;">
                     <span style="color: #000000;">WEST</span><span style="color: #007bff;">CRAN</span><span style="color: #000000;">西鹤软件</span>
                 </a> 
-                友情赞助
+                版权所有
             </p>
             <p style="margin: 0; font-size: 12px; color: #bbb;">
                 <span style="font-style: italic; font-weight: bold;">
-                    <span style="color: #000000;">WEST</span><span style="color: #007bff;">CRAN</span>
-                </span>友情赞助，一切纠纷与<span style="color: #000000;">WEST</span><span style="color: #007bff;">CRAN</span>无关
+                </span>一切纠纷与开发者<span style="color: #000000;">WEST</span><span style="color: #007bff;">CRAN</span>无关
             </p>
             <p style="font-size: 10px; color: #ccc;">
             基于 <a href="https://www.gnu.org/licenses/gpl-3.0.html">GPL v3.0</a>
